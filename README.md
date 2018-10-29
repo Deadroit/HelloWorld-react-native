@@ -1,3 +1,3 @@
 Simple Application
 
-build for Reactive Native
+build for React Native
